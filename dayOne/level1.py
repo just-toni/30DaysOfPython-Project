@@ -9,9 +9,13 @@ print(3 // 4)
 
 # 3
 name = "toni"
+print(name)
 familyname = 'Adeniyi'
+print(familyname)
 country = "Canada"
+print(country)
 word = "I am enjoying 30 days of python"
+print(word)
 
 # 4
 print(type(10))
